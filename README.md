@@ -5,7 +5,7 @@
 ## 🚀 Acerca de nosotros
 Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para la mejora en sistemas de gestión :)
 
-## 👨‍💻👩‍💻 Authors
+## 👨‍💻👩‍💻 Integrantes
 
 👑 [@ErikaMoralesM](https://github.com/ErikaMoralesM)
 
@@ -15,7 +15,7 @@ Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para 
 [@mahosastre](https://github.com/mahosastre)
 [@Jorge741](https://github.com/Jorge741)
 
-## 🛠 Skills
+## 🛠 Habilidades
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
