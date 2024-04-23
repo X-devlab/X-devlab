@@ -9,7 +9,7 @@ Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para 
 
 👑 [@ErikaMoralesM](https://github.com/ErikaMoralesM)
 
-[@LuisVicMartz](https://github.com/LuisVicMart) Una mamado uwu
+[@LuisVicMartz](https://github.com/LuisVicMart) Un mamado uwu
 [@adrianhdez2](https://github.com/adrianhdez2)
 [@WilliamsIsaacHL](https://github.com/WilliamsIsaacHL)
 [@mahosastre](https://github.com/mahosastre) 🖕🏻
