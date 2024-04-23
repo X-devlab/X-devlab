@@ -3,7 +3,7 @@
 # X Dev Lab 💻⚡
 
 ## 🚀 Acerca de nosotros
-Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para la mejora en sistemas de gestión :)
+🤖 Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para la mejora en sistemas de gestión :)
 
 ## 👨‍💻👩‍💻 Integrantes
 
