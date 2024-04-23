@@ -9,11 +9,11 @@ Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para 
 
 👑 [@ErikaMoralesM](https://github.com/ErikaMoralesM)
 
-[@LuisVicMartz](https://github.com/LuisVicMart)
+[@LuisVicMartz](https://github.com/LuisVicMart) Una mamado uwu
 [@adrianhdez2](https://github.com/adrianhdez2)
 [@WilliamsIsaacHL](https://github.com/WilliamsIsaacHL)
 [@mahosastre](https://github.com/mahosastre) 🖕🏻
-[@Jorge741](https://github.com/Jorge741)
+[@Jorge741](https://github.com/Jorge741) 
 
 ## 🛠 Habilidades
 
