@@ -14,6 +14,8 @@
 [@WilliamsIsaacHL](https://github.com/WilliamsIsaacHL)
 [@mahosastre](https://github.com/mahosastre)
 [@Jorge741](https://github.com/Jorge741) 
+[@AntonioLoya](https://github.com/AntonioLoya) 
+
 
 ## 🛠 Habilidades
 
