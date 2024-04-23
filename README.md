@@ -7,6 +7,8 @@ Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para 
 
 ## 👨‍💻👩‍💻 Authors
 
+👑 [@ErikaMoralesM](https://github.com/ErikaMoralesM)
+
 [@LuisVicMartz](https://github.com/LuisVicMart)
 [@adrianhdez2](https://github.com/adrianhdez2)
 [@WilliamsIsaacHL](https://github.com/WilliamsIsaacHL)
