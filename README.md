@@ -9,11 +9,11 @@
 
 👑 [@ErikaMoralesM](https://github.com/ErikaMoralesM)
 
-🪐[@LuisVicMartz](https://github.com/LuisVicMart)
-[@adrianhdez2](https://github.com/adrianhdez2)
-[@WilliamsIsaacHL](https://github.com/WilliamsIsaacHL)
-[@mahosastre](https://github.com/mahosastre)
-[@Jorge741](https://github.com/Jorge741) 
+🪐[@LuisVicMartz](https://github.com/LuisVicMart) /
+[@adrianhdez2](https://github.com/adrianhdez2) /
+[@WilliamsIsaacHL](https://github.com/WilliamsIsaacHL) /
+[@mahosastre](https://github.com/mahosastre) /
+[@Jorge741](https://github.com/Jorge741) /
 [@AntonioLoya](https://github.com/AntonioLoya) 
 
 
@@ -31,6 +31,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -46,6 +48,5 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 </div>
