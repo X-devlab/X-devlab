@@ -3,7 +3,7 @@
 # X Dev Lab 💻⚡
 
 ## 🚀 Acerca de nosotros
-🤖 Somos un equipo de desarrollo que busca desarrollar e implementar sistemas para la mejora en sistemas de gestión :)
+🤖 Soluciones de Desarrollo de Software, como Aplicaciones Web, Móviles, Realidad Virtual y Aumentada, Internet de las Cosas y Análisis de Datos empleando Técnicas de Ciencia de Datos.
 
 ## 👨‍💻👩‍💻 Integrantes
 
